@@ -24,7 +24,7 @@ after_script:
 
 branches:
   only:
-    - blog-source
+    - blogsource
 env:
  global:
    - GH_REF: github.com/benzhu1230/benzhu1230.github.com.git
